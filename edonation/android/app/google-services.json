@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "757707212298",
+    "firebase_url": "https://edonation-930da-default-rtdb.firebaseio.com",
+    "project_id": "edonation-930da",
+    "storage_bucket": "edonation-930da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757707212298:android:cd01df002abf4360a401f3",
+        "android_client_info": {
+          "package_name": "com.example.edonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757707212298-k75m0j47al71ce2ugaj72ajgr4jidnct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edonation",
+            "certificate_hash": "6ec364085c206d365cc37de8485b05a22346ae5b"
+          }
+        },
+        {
+          "client_id": "757707212298-nprudjthf6trel4g2duq5d2568vk3kbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edonation",
+            "certificate_hash": "d311040a24dea1305719a7be4fb705e25ab02ce0"
+          }
+        },
+        {
+          "client_id": "757707212298-gss197ujtcoqq1tmrotmgu6b496to11p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7pw8mO7DdyHQzU1IKb6VP1ZeUvifFrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757707212298-gss197ujtcoqq1tmrotmgu6b496to11p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
